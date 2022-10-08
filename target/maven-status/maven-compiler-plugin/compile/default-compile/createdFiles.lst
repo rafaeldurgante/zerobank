@@ -1,0 +1,11 @@
+br\ce\bank\pages\IndexPage.class
+br\ce\rafael\core\Propriedades.class
+br\ce\rafael\core\DriverFactory$1.class
+br\ce\rafael\core\Propriedades$Browsers.class
+br\ce\suite\tests\BankTest.class
+br\ce\bank\pages\OnLineBankingPage.class
+br\ce\bank\pages\LoginPage.class
+br\ce\rafael\core\BasePage.class
+br\ce\rafael\core\BaseTest.class
+br\ce\rafael\core\DriverFactory.class
+br\ce\bank\pages\FeedbackPage.class
