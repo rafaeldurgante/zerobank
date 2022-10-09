@@ -1,7 +1,7 @@
 # zerobank
 Challenge 1 - Web 
 
-I created an automated test suite called BackTest.
+I created an automated test suite called BankTest.
 
 To run the automated test, you need to download eclipse IDE on your PC and open the Basic Project inside this IDE.
 
